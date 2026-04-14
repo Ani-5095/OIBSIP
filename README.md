@@ -22,12 +22,19 @@ Balance Inquiry: Real-time updates on account status.
 
 Withdrawal/Deposit: Validated logic to prevent overdrafts.
 
-<img width="416" height="161" alt="Screenshot 2026-04-14 at 12 43 36" src="https://github.com/user-attachments/assets/9afec672-c2be-462d-b516-43373f4e8ea9" />
+<img width="416" height="161" alt="ATM1" src="https://github.com/user-attachments/assets/048ed25f-41df-4eab-aff6-3db9ad255178" />
 
-<img width="434" height="542" alt="Screenshot 2026-04-14 at 12 44 07" src="https://github.com/user-attachments/assets/08ca4814-9ddc-44ec-be94-09d63b23dd8b" />
+<img width="434" height="542" alt="ATM2" src="https://github.com/user-attachments/assets/92d3b388-0742-49fa-9873-1eca0c8e1124" />
 
-<img width="435" height="526" alt="Screenshot 2026-04-14 at 12 44 20" src="https://github.com/user-attachments/assets/b089e6b2-cbe9-4d83-a250-c82a228c4e73" />
+<img width="435" height="526" alt="ATM3" src="https://github.com/user-attachments/assets/6939e274-8e9a-4363-9f10-521d5c943d50" />
 
+<img width="435" height="535" alt="ATM4" src="https://github.com/user-attachments/assets/7742699e-cb73-4adb-a521-31318ac454b7" />
+
+<img width="435" height="529" alt="ATM5" src="https://github.com/user-attachments/assets/f704605e-ef32-4c4a-95b9-0e90f66997d0" />
+
+<img width="429" height="532" alt="ATM6" src="https://github.com/user-attachments/assets/cad5f5d8-c7b0-4803-917c-bcd9ab42aecf" />
+
+<img width="439" height="532" alt="ATM7" src="https://github.com/user-attachments/assets/d2475262-08e0-4c0a-a525-7e36dea65ed6" />
 
 
 
