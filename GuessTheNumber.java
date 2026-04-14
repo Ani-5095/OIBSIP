@@ -1,12 +1,12 @@
 // Guess the Number Game
-import javax.swing.JOptionPane;
 import java.util.*;
+import javax.swing.JOptionPane;
 public class GuessTheNumber {
     public static void main(String[] args) {
-        Random rand = new Random();
+        Random rand = new Random();                         //Object of Random class to generate random numbers
         int numberToGuess = rand.nextInt(100) + 1; // Random number between 1 and 100
-        int numberOfTries = 0;
-        boolean hasWon = false;
+        int numberOfTries = 0;                              
+        boolean hasWon = false;                 //Flag to check if the user has won the game
 
         while (!hasWon) {
             String userInput = JOptionPane.showInputDialog("Guess a number between 1 and 100:");
