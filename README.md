@@ -40,6 +40,10 @@ Withdrawal/Deposit: Validated logic to prevent overdrafts.
 
 
 
+
+
+
+
 2. Number Guessing Game
 An interactive game designed to test logic and user input handling.
 
@@ -50,3 +54,28 @@ Difficulty Scaling: Limits on the number of attempts.
 Score Tracking: Points based on how quickly the number is identified.
 
 Dynamic Feedback: Hints like "Too High" or "Too Low" to guide the user.
+
+
+<img width="376" height="163" alt="GN1" src="https://github.com/user-attachments/assets/3ace8a37-3fb1-4cee-b507-544434838837" />
+
+<img width="251" height="157" alt="GN2" src="https://github.com/user-attachments/assets/e9fe20b6-c59d-4470-b645-ff26064c8acd" />
+
+<img width="370" height="162" alt="GN3" src="https://github.com/user-attachments/assets/501b3927-c14a-48c7-b70c-d44f2ba43633" />
+
+<img width="245" height="158" alt="GN4" src="https://github.com/user-attachments/assets/e650f1e3-d629-4659-a355-d718d5dc7e62" />
+
+<img width="375" height="155" alt="GN4 5" src="https://github.com/user-attachments/assets/3500d8f9-d238-485c-9c29-4868e778f7de" />
+
+<img width="479" height="167" alt="GN5" src="https://github.com/user-attachments/assets/f9b373e3-0697-43f7-b299-ea364480d977" />
+
+
+
+
+
+
+
+
+
+
+
+
