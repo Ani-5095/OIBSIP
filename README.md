@@ -22,6 +22,17 @@ Balance Inquiry: Real-time updates on account status.
 
 Withdrawal/Deposit: Validated logic to prevent overdrafts.
 
+<img width="416" height="161" alt="Screenshot 2026-04-14 at 12 43 36" src="https://github.com/user-attachments/assets/9afec672-c2be-462d-b516-43373f4e8ea9" />
+
+<img width="434" height="542" alt="Screenshot 2026-04-14 at 12 44 07" src="https://github.com/user-attachments/assets/08ca4814-9ddc-44ec-be94-09d63b23dd8b" />
+
+<img width="435" height="526" alt="Screenshot 2026-04-14 at 12 44 20" src="https://github.com/user-attachments/assets/b089e6b2-cbe9-4d83-a250-c82a228c4e73" />
+
+
+
+
+
+
 2. Number Guessing Game
 An interactive game designed to test logic and user input handling.
 
